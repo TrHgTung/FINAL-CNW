@@ -1,0 +1,7 @@
+Admin:
+    un: admin@example.com
+    pass: 123
+
+User (Customer):
+    un: testing0@test.com
+    pass: Test@123
