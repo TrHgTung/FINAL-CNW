@@ -17,7 +17,7 @@ Go to the project directory
 -	Cài đặt Composer Desktop (windows); XAMPP Apache; tích hợp PHP 8.1.2 trở lên
 ```
 
--   Copy .env.example file to .env và sửa lại khóa DB_NAME
+-   Copy .env.example file to .env và sửa lại khóa DB_DATABASE
 
 ```bash
     composer install
