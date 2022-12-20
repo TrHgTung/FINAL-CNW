@@ -1,3 +1,6 @@
+Video demo: https://youtu.be/fjIs9LTnqDM
+Heroku demo: https://frozen-crag-01030.herokuapp.com/
+
 # Laravel 9 & React js - Mini Bookshop Application
 -   Local: D:\TTTD_CongNgheWeb\TTTD-ecommerce
 
@@ -14,7 +17,7 @@ Go to the project directory
 -	Cài đặt Composer Desktop (windows); XAMPP Apache; tích hợp PHP 8.1.2 trở lên
 ```
 
--   Copy .env.example file to .env and edit database credentials there
+-   Copy .env.example file to .env và sửa lại khóa DB_NAME
 
 ```bash
     composer install
