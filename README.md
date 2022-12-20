@@ -19,6 +19,8 @@ Go to the project directory
 
 -   Copy .env.example file to .env và sửa lại khóa DB_DATABASE
 
+-   Mở XAMPP và Start 2 dịch vụ: Apache và MySQL
+
 ```bash
     composer install
 ```
